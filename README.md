@@ -6,6 +6,6 @@
 Easy Table of Contents  auto generation for GitHub README.md
 
 # online generation
-You don't need to install anything .
-1 Go to https://tableofcontents.herokuapp.com
-2 copy paste your markdown content and submit
+You don't need to install anything.
+<br>1 Go to https://tableofcontents.herokuapp.com
+<br>2 Copy paste your markdown content and submit
