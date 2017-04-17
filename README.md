@@ -1,3 +1,4 @@
+**Table of Contents**  
 - [auto-toc](#auto-toc)
 - [online generation](#online-generation)
 
